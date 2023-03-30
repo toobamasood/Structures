@@ -19,7 +19,7 @@ num a[3];
         cin>>a[i].pages;
         cout<<"enter the price="<<endl;
         cin>>a[i].price;
-    }
+    } 
     max=a[0].price;
     for(int i=1;i<3;i++)
     if(max<a[i].price)
