@@ -8,7 +8,7 @@ int price;
 };
 int main()
 {
-    
+   int a=18; 
 num a[3];
 	int max;
 	int m=0;
