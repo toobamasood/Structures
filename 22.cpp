@@ -2,6 +2,7 @@
 using namespace std;
 struct num
 {
+int a=786;
 int id;
 int pages;
 int price;	
