@@ -8,8 +8,8 @@ int price;
 };
 int main()
 {
-   int a=688; 
-num a[3];
+   int a=7688; 
+num a[3]; 
 	int max;
 	int m=0;
 	for(int i=0;i<3;i++)
